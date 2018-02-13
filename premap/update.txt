@@ -1,0 +1,1 @@
+scp -r * eschwiet@portal.astro.washington.edu:/www/astro/users/eschwiet/html/premap
